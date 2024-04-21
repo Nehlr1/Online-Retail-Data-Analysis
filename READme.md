@@ -60,6 +60,9 @@ The following Python libraries are required to run the code:
 
 ## Usage
 
-1. Install the required libraries using pip or any other package manager.
+1. Install the required libraries using requirements.txt file.
+```
+pip install -r requirements.txt
+```
 2. Download the "Online Retail Data Set.csv" dataset and place it in the same directory as the code.
 3. Run the code to perform data analysis and build the machine learning model.
